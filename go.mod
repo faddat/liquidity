@@ -5,7 +5,7 @@ module github.com/tendermint/liquidity
 require (
 	github.com/cosmos/cosmos-sdk v0.40.0-rc4
 	github.com/gogo/protobuf v1.3.1
-	github.com/golang/protobuf v1.4.3
+	github.com/golang/protobuf v1.5.0
 	github.com/gorilla/mux v1.8.0
 	github.com/grpc-ecosystem/grpc-gateway v1.15.2
 	github.com/grpc-ecosystem/grpc-gateway/v2 v2.0.1
@@ -17,7 +17,7 @@ require (
 	github.com/tendermint/tm-db v0.6.2
 	google.golang.org/genproto v0.0.0-20201019141844-1ed22bb0c154
 	google.golang.org/grpc v1.33.1
-	google.golang.org/protobuf v1.25.0
+	google.golang.org/protobuf v1.33.0
 	gopkg.in/yaml.v2 v2.3.0
 )
 
